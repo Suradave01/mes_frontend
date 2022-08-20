@@ -1,0 +1,186 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+#__next {
+  height: 100%;
+}
+.ant-carousel {
+  height: 100%;
+}
+.slick-initialized {
+  height: 100%;
+  display: flex !important;
+  align-items: center;
+}
+.ant-row,
+.ant-row:after,
+.ant-row:before {
+  justify-content: center;
+}
+label {
+  font-size: 15px !important;
+}
+input {
+  height: 40px;
+  border-radius: 5px !important;
+}
+.ant-input-affix-wrapper > input.ant-input {
+  height: 30px;
+}
+.ant-input-affix-wrapper {
+  border-radius: 5px !important;
+}
+.ag-header-cell-label {
+  /* justify-content: center; */
+}
+.ant-switch-checked {
+  background-color: #ff9c6e !important;
+}
+.ant-select-selector {
+  border-radius: 5px !important;
+}
+.ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+  height: 40px !important;
+}
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  height: 40px !important;
+}
+.ant-form-item .ant-cascader-picker,
+.ant-form-item .ant-select {
+  width: 100% !important;
+}
+.ant-input-number {
+  width: 100% !important;
+  height: 40px !important;
+  border-radius: 5px !important;
+}
+.ant-btn {
+  border-radius: 5px !important;
+}
+.ant-modal-header {
+  border-radius: 10px 10px 0 0 !important;
+}
+.ant-modal-content {
+  border-radius: 10px !important;
+}
+.ant-modal-title {
+  font-size: 21px !important;
+  text-align: center;
+}
+.ant-modal-footer .ant-btn {
+  width: 30%;
+  font-size: 15px;
+}
+.ant-modal-footer {
+  text-align: center !important;
+}
+.ant-modal-body {
+  overflow: auto;
+  max-height: 500px;
+  height: auto;
+}
+.ant-menu-dark .ant-menu-sub,
+.ant-menu.ant-menu-dark,
+.ant-menu.ant-menu-dark .ant-menu-sub,
+.ant-layout-sider {
+  background-color: #1d2a38;
+}
+.ant-layout-header {
+  background: #fff !important;
+  border-bottom: 1px solid #f6f6f6;
+}
+.ant-layout {
+  padding: 0px !important;
+}
+.ant-layout-sider-zero-width-trigger {
+  top: 0px !important;
+  background: #001529;
+}
+.ant-breadcrumb {
+  margin: 0px !important;
+  /* z-index: 1; */
+  position: absolute;
+  top: 78px;
+  padding-left: 24px !important;
+  font-size: 14px !important;
+}
+.ant-btn-primary {
+  background: linear-gradient(
+    0deg,
+    rgba(242, 75, 0, 1) 0%,
+    rgba(241, 102, 40, 1) 52%
+  ) !important;
+  border: 0px !important;
+}
+.ant-btn-primary:hover {
+  background: linear-gradient(
+    0deg,
+    rgba(242, 75, 0, 1) 0%,
+    rgba(241, 102, 40, 1) 52%
+  );
+  border: 0px !important;
+}
+.ag-theme-alpine .ag-checkbox-input-wrapper.ag-checked::after {
+  color: #f16628 !important;
+}
+.ant-btn.ant-btn-background-ghost,
+.ant-btn.ant-btn-background-ghost:active,
+.ant-btn.ant-btn-background-ghost:focus,
+.ant-btn.ant-btn-background-ghost:hover {
+  border: 0.5px solid rgb(168, 168, 168) !important;
+}
+.ant-input-group-addon {
+  width: auto;
+}
+.ant-input-number-group-addon {
+  width: auto !important;
+}
+.ant-btn-primary:focus,
+.ant-btn-primary:hover {
+  color: #fff;
+  border-color: #f16628 !important;
+  background: #f16628 !important;
+}
+.ant-menu-dark .ant-menu-inline.ant-menu-sub {
+  background: #000c17 !important;
+}
+/* #001529 */
+.ant-menu-dark .ant-menu-sub,
+.ant-menu.ant-menu-dark,
+.ant-menu.ant-menu-dark .ant-menu-sub {
+  color: #ffff;
+  background: #001529;
+}
+.ant-layout-sider-children {
+  background: #001529;
+}
+.ant-menu-dark .ant-menu-item,
+.ant-menu-dark .ant-menu-item-group-title,
+.ant-menu-dark .ant-menu-item > a,
+.ant-menu-dark .ant-menu-item > span > a {
+  color: #ffff !important;
+}
+.ant-menu-dark.ant-menu-dark:not(.ant-menu-horizontal) .ant-menu-item-selected {
+  background: #f16628 !important;
+}
+.ant-btn-dangerous.ant-btn-primary{
+  background: #f5222d;
+}
+.ant-btn-lg{
+  font-size: 14px;
+}
+
+

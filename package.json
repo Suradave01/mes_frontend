@@ -1,0 +1,37 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 8080",
+    "build": "next build",
+    "start": "next start -p 3001",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/icons": "^4.7.0",
+    "@ag-grid-enterprise/core": "^28.0.0",
+    "ag-grid-community": "~28.0.0",
+    "ag-grid-enterprise": "~28.0.0",
+    "ag-grid-react": "^28.0.0",
+    "antd": "^4.18.7",
+    "axios": "^0.26.1",
+    "next": "12.1.0",
+    "next-with-less": "^2.0.5",
+    "node-fetch": "^3.2.4",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-excel-renderer": "^1.1.0",
+    "sweetalert2": "^11.4.14"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.18",
+    "@types/react": "17.0.39",
+    "@types/react-dom": "^17.0.11",
+    "eslint": "8.9.0",
+    "eslint-config-next": "12.1.0",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
+    "typescript": "4.5.5"
+  }
+}

@@ -1,0 +1,37 @@
+.disFlex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f6f6f6;
+}
+.fullPage {
+  height: 100%;
+}
+.txtCenter {
+  text-align: center;
+}
+.bg {
+  background-image: url("../../public/image/mes_login-page.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+}
+.fontlog {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 0px;
+  text-align: left;
+}
+.fontlogsub {
+  font-size: 16px;
+  margin-bottom: 5px;
+  text-align: left;
+}
+.imglogo {
+  height: auto !important;
+  width: 50% !important;
+  min-width: 50% !important;
+  max-width: 50% !important;
+  min-height: auto !important;
+  max-height: auto !important;
+}

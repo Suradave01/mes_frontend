@@ -1,0 +1,11 @@
+#components-layout-demo-fixed .logo {
+  width: 50px;
+  border: 0.5rem;
+  border-radius: 100px;
+  margin: 10px;
+  margin-left: 70px;
+  padding: 0px;
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}

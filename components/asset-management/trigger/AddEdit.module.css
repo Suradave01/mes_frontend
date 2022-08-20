@@ -1,0 +1,30 @@
+.txthead{
+  font-size: 26px;
+}
+.dislayout{
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  padding-top: 55px;
+}
+.disModal{
+  display: flex;
+  justify-content: space-between;
+}
+.btn{
+  width: 100px;
+}
+.active{
+  border: 1px solid #52c41a;
+  padding: 3px 6px;
+  border-radius: 5px;
+  background: #52c41a;
+  color: #fff;
+}
+.inactive{
+  border: 1px solid #f5222d;
+  padding: 3px 6px;
+  border-radius: 5px;
+  background: #f5222d;
+  color: #fff;
+}

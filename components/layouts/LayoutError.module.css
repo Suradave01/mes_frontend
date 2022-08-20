@@ -1,0 +1,24 @@
+.logo {
+  width: 50px;
+  border: 0.5rem;
+  border-radius: 100px;
+  margin: 10px;
+  margin-left: 70px;
+  padding: 0px;
+}
+.site_layout .site_layout_background {
+  background: #fff;
+}
+
+.site_layout_background_content {
+  background: #fff;
+}
+
+.not-found {
+  text-align: center;
+}
+
+.not-found a {
+  color: dodgerblue;
+  text-decoration: underline;
+}

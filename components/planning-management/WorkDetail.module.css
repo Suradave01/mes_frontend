@@ -1,0 +1,8 @@
+.marginform {
+  margin-bottom: 10px;
+}
+.datefullWidth{
+  width: 100% !important;
+  height: 40px !important;
+  border-radius: 5px !important;
+}

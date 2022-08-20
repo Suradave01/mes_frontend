@@ -1,0 +1,77 @@
+.logo {
+  width: 50px;
+  border: 0.5rem;
+  border-radius: 100px;
+  margin: 10px;
+  /* margin-left: 70px; */
+  padding: 0px;
+}
+.site_layout .site_layout_background {
+  background: #fff;
+}
+
+.site_layout_background_content {
+  background: #fff;
+  padding: 45px 24px 0 24px !important;
+}
+.layoutsubNoti {
+  height: 200px;
+}
+.layoutsubNoti li {
+  padding: 15px 20px !important;
+}
+
+.layoutUser {
+  width: 210px;
+  background: #fff;
+  padding: 10px;
+}
+.layoutNoti {
+  width: 210px;
+  background: #fff;
+  padding: 5px 10px;
+}
+.layoutUser p {
+  margin-bottom: 5px;
+}
+.layoutNoti p {
+  margin-bottom: 0px;
+}
+.bdr {
+  border-bottom: 0.5px solid #d9d9d9;
+}
+.pdnoti {
+  padding: 10px;
+}
+.txtnoti {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.notinone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.logoMenu {
+  height: auto;
+  width: 90px !important;
+  margin-top: 20px;
+  margin-bottom: 70%;
+}
+.logoFooter {
+  height: auto;
+  width: 60px !important;
+  margin-right: 10px;
+}
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 30px 45px 30px;
+}
+.footer_sub{
+  display: flex;
+  align-items: baseline;
+}

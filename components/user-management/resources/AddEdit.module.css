@@ -1,0 +1,12 @@
+.txthead{
+  font-size: 26px;
+}
+.dislayout{
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+  padding-top: 55px;
+}
+.btn{
+  width: 100px;
+}
